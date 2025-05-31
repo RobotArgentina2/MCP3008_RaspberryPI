@@ -5,7 +5,7 @@
 - Raspberri Pi3.
  <img src="src/img/raspberry.png" height="250">
 - MCP3008 ADC
-  <img src="src/img/MCP3008_DiagFuncional.png" height="250">
+  <img src="src/img/MCP3008_DiagFuncional.jpg" height="250">
 
 ---
 ### Pasos.
