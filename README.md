@@ -3,6 +3,7 @@
 
 ### Material necesario.
 - Raspberri Pi3.
+- <img src="doc/header.jpg" height="372">
 - MCP3008 ADC
 
 ---
