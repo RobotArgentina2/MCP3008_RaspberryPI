@@ -3,6 +3,7 @@
 
 ### Material necesario.
 - Raspberri Pi3.
+- http://www.sparkfun.com/products/718
  <img src="src/img/raspberry.png" height="250">
  
 - MCP3008 ADC
