@@ -1,5 +1,10 @@
 ## Leer señales analógicas con MCP3008 usando una Raspberry Pi 3 en Java
 ---
+## Recursos y librerias.
+Originalmente a las mini computadoras del sistema Raspberry Pi se la programan en lenguaje Python.
+Si se quisiera utilizar otro tipo de lenguaje, como en este caso usar al lenguaje Java hay previamente que instalarlo, para ello podemos recurrir a la págins web https://www.pi4j.com/ y recurrir al apartado preparación de la tarjeta y luego como instalar el lenguaje Java.
+
+
 ### Tareas a ejecutar previamente
 Antes de poder ejecutar y configurar al puerto SPI, necesitas cumplir con estos pasos previos aqui indicados a continuación
 - Escribir el sistema operativo en la tarjeta SD.
