@@ -1,6 +1,10 @@
 ## Leer señales analógicas con MCP3008 usando una Raspberry Pi 3 en Java
 ---
+### Instalar JAVA
+Instalar Java
+Hay muchas maneras de instalar Java. La forma más sencilla de que Java esté disponible tanto para uso normal como para usuarios root ( sudo) es la siguiente: descargar una de las muchas distribuciones disponibles.
 
+Con los siguientes comandos puedes instalar Java 21. A partir de Pi4J V3, esta es la versión mínima requerida. Si usas una versión anterior de Pi4J, puedes usar Java 11.
 ### Material necesario.
 - Raspberri Pi3.
 Para aprender mas sobre la Raspberry Pi, visite el sitio https://www.raspberrypi.com/documentation/
