@@ -6,6 +6,10 @@
 - MCP3008 ADC
 
 ### Pasos.
+
+1. ***MCP3008reader.java***
+Archivo del código para la habilitación, configuración y acceso al puerto SPI, desde el
+puerto GPIO de la Raspberry PI3.
 Se utiliza el componente MCP3008 para leer las señales analógicas
 Importaciones: Importa las clases necesarias del framework Pi4J para interactuar con el MCP3008.
 MCP3008Reader Clase: Esta clase contiene la lógica principal del programa.
