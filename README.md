@@ -5,10 +5,10 @@
 - Raspberri Pi3.
 Para aprender mas sobre la Raspberry Pi, visite el sitio https://www.raspberrypi.com/documentation/
  
- <img src="src/img/raspberry.png" height="250">
+ <img src="src/img/raspberry.png" height="200">
  
 - MCP3008 ADC
-  <img src="src/img/MCP3008_DiagFuncional.jpg" height="250">
+  <img src="src/img/MCP3008_DiagFuncional.jpg" height="150">
 
 ---
 ### Pasos.
