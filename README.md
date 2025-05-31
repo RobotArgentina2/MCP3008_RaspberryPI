@@ -19,9 +19,7 @@ Para aprender mas sobre la Raspberry Pi, visite el sitio https://www.raspberrypi
   <img src="src/img/MCP3008_DiagFuncional.jpg" height="150">
 
 ---
-### Pasos.
-
-1. ***MCP3008reader.java***
+### ***MCP3008reader.java***
 
 Archivo del código para la habilitación, configuración y acceso al puerto SPI, desde el puerto GPIO de la Raspberry PI3.
 
